@@ -1,0 +1,44 @@
+#!name=GlobalNetwork
+#!desc=Foreign network （Update on 2022-02-06）
+
+[Rule]
+#Course
+DOMAIN-SUFFIX,coursera.org,💎 PROXY
+
+#Cryptocurrency
+DOMAIN-SUFFIX,bnbstatic.com,🇸🇬Trojan
+
+#Email
+DOMAIN-SUFFIX,aol.com,🇺🇸Trojan
+
+#Finance
+DOMAIN-SUFFIX,paypal.com,🇺🇸Trojan
+
+#Forum
+DOMAIN-SUFFIX,pincong.rocks,🇸🇬Trojan
+
+#Game
+DOMAIN-SUFFIX,riotgames.com,💎 PROXY
+DOMAIN-SUFFIX,op.gg,DIRECT
+
+#OpenSource
+DOMAIN-SUFFIX,lvv2.com,💎 PROXY
+
+#Password
+DOMAIN-SUFFIX,passwordsgenerator.net,💎 PROXY
+
+#Panels
+DOMAIN-SUFFIX,ip-api.com,💎 PROXY
+
+#R18
+DOMAIN-SUFFIX,av01.tv,💎 PROXY
+DOMAIN-SUFFIX,r18.com,💎 PROXY
+DOMAIN-SUFFIX,javbus.com,💎 PROXY
+DOMAIN-SUFFIX,lvv2.com,💎 PROXY
+
+#Search Engine
+DOMAIN-SUFFIX,yahoo.co.jp,💎 PROXY
+DOMAIN-SUFFIX,petalsearch.com,🇸🇬Trojan
+
+#Videos
+DOMAIN-SUFFIX,bilibili.tv,💎 PROXY
