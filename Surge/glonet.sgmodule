@@ -1,7 +1,10 @@
 #!name=GlobalNetwork
-#!desc=Foreign network （Update on 2022-02-17）
+#!desc=Foreign network （Update on 2022-02-18）
 
 [Rule]
+#Business
+DOMAIN-SUFFIX,business-standard.com, 💎 PROXY
+
 #Course
 DOMAIN-SUFFIX,coursera.org,💎 PROXY
 
