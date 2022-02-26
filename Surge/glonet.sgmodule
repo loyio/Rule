@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,bibme.org,💎 PROXY
 
 # Programming
 DOMAIN-SUFFIX,leetcode.com,💎 PROXY
+DOMAIN-SUFFIX,cppreference.com,💎 PROXY
 
 # R18
 DOMAIN-SUFFIX,av01.tv,💎 PROXY
