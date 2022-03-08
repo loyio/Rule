@@ -4,6 +4,7 @@
 [Rule]
 # Business
 DOMAIN-SUFFIX,business-standard.com, 💎 PROXY
+DOMAIN-SUFFIX,teamviewer.com, 💎 PROXY
 
 # Course
 DOMAIN-SUFFIX,coursera.org,💎 PROXY
