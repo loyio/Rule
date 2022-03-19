@@ -1,5 +1,5 @@
 #!name=GlobalNetwork
-#!desc=Foreign network （Update on 2022-03-17）
+#!desc=Foreign network （Update on 2022-03-19）
 
 [Rule]
 # Business
@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,pincong.rocks,🇸🇬Trojan
 
 # Game
 DOMAIN-SUFFIX,riotgames.com,🎮 Gaming
+DOMAIN-SUFFIX, discord.gg, 💎 PROXY
 DOMAIN-SUFFIX,op.gg,DIRECT
 
 # OpenSource
