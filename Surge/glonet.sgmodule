@@ -10,16 +10,16 @@ DOMAIN-SUFFIX,teamviewer.com, 💎 PROXY
 DOMAIN-SUFFIX,coursera.org,💎 PROXY
 
 # Cryptocurrency
-DOMAIN-SUFFIX,bnbstatic.com,🇸🇬Trojan
+DOMAIN-SUFFIX,bnbstatic.com,🐲 SG
 
 # Email
-DOMAIN-SUFFIX,aol.com,🇺🇸Trojan
+DOMAIN-SUFFIX,aol.com,🐲 US
 
 # Finance
-DOMAIN-SUFFIX,paypal.com,🇺🇸Trojan
+DOMAIN-SUFFIX,paypal.com,🐲 US
 
 # Forum
-DOMAIN-SUFFIX,pincong.rocks,🇸🇬Trojan
+DOMAIN-SUFFIX,pincong.rocks,🐲 SG
 
 # Game
 DOMAIN-SUFFIX,riotgames.com,🎮 Gaming
@@ -51,7 +51,7 @@ DOMAIN-SUFFIX,javmix.tv, 💎 PROXY
 
 # Search Engine
 DOMAIN-SUFFIX,yahoo.co.jp,💎 PROXY
-DOMAIN-SUFFIX,petalsearch.com,🇸🇬Trojan
+DOMAIN-SUFFIX,petalsearch.com,🐲 SG
 
 # Videos
 DOMAIN-SUFFIX,bilibili.tv,💎 PROXY
