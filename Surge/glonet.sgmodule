@@ -6,6 +6,9 @@
 DOMAIN-SUFFIX,business-standard.com, 💎 PROXY
 DOMAIN-SUFFIX,teamviewer.com, 💎 PROXY
 
+# Computer
+DOMAIN-SUFFIX,geeksforgeeks.org, 💎 PROXY
+
 # Course
 DOMAIN-SUFFIX,coursera.org,💎 PROXY
 
