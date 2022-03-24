@@ -1,7 +1,11 @@
 #!name=GlobalNetwork
-#!desc=Foreign network （Update on 2022-03-23）
+#!desc=Foreign network （Update on 2022-03-24）
 
 [Rule]
+# App
+DOMAIN-SUFFIX,appstorrent.ru, 💎 PROXY
+DOMAIN-SUFFIX,cmacked.com, 💎 PROXY
+
 # Business
 DOMAIN-SUFFIX,business-standard.com, 💎 PROXY
 DOMAIN-SUFFIX,teamviewer.com, 💎 PROXY
