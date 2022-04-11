@@ -37,6 +37,9 @@ DOMAIN-SUFFIX,riotgames.com,🎮 Gaming
 DOMAIN-SUFFIX, discord.gg, 💎 PROXY
 DOMAIN-SUFFIX,op.gg,DIRECT
 
+# Google
+DOMAIN-SUFFIX, gstatic.com, 💎 PROXY
+
 # Hardware
 DOMAIN-SUFFIX, arduino.cc, 💎 PROXY
 
