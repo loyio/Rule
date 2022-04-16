@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,op.gg,DIRECT
 
 # Google
 DOMAIN-SUFFIX, gstatic.com, 💎 PROXY
+DOMAIN-SUFFIX, goo.gl, 💎 PROXY
 
 # Hardware
 DOMAIN-SUFFIX, arduino.cc, 💎 PROXY
