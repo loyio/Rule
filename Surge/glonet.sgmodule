@@ -1,5 +1,5 @@
 #!name=GlobalNetwork
-#!desc=Foreign network （Update on 2022-04-16）
+#!desc=Foreign network （Update on 2022-04-18）
 
 [Rule]
 # App
@@ -43,6 +43,9 @@ DOMAIN-SUFFIX, goo.gl, 💎 PROXY
 
 # Hardware
 DOMAIN-SUFFIX, arduino.cc, 💎 PROXY
+
+# News
+DOMAIN-SUFFIX, thenewslens.com, 💎 PROXY
 
 # Notion
 DOMAIN-SUFFIX, notion.so, 💎 PROXY
