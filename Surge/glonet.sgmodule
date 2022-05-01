@@ -1,5 +1,5 @@
 #!name=GlobalNetwork
-#!desc=Foreign network （Update on 2022-04-27）
+#!desc=Foreign network （Update on 2022-05-01）
 
 [Rule]
 # App
@@ -86,3 +86,6 @@ DOMAIN-SUFFIX, linode.com, 💎 PROXY
 
 # Videos
 DOMAIN-SUFFIX,bilibili.tv,💎 PROXY
+
+#Wallpaper
+DOMAIN-SUFFIX,24hourwallpaper.com,💎 PROXY
