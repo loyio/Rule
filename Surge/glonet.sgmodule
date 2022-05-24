@@ -10,6 +10,9 @@ DOMAIN-SUFFIX,cmacked.com, 💎 PROXY
 DOMAIN-SUFFIX,business-standard.com, 💎 PROXY
 DOMAIN-SUFFIX,teamviewer.com, 💎 PROXY
 
+# CDN
+DOMAIN-SUFFIX,jsdelivr.net, 💎 PROXY
+
 # Computer Science
 DOMAIN-SUFFIX,geeksforgeeks.org, 💎 PROXY
 DOMAIN-SUFFIX,stacked-crooked.com, 💎 PROXY
