@@ -26,6 +26,9 @@ DOMAIN-SUFFIX,bnbstatic.com,💎 PROXY
 # Cracked
 DOMAIN-SUFFIX,thepiratebay.org,💎 PROXY
 
+# Design
+DOMAIN-SUFFIX,canva.com,💎 PROXY
+
 # Email
 DOMAIN-SUFFIX,aol.com,💎 PROXY
 
@@ -78,7 +81,8 @@ DOMAIN-SUFFIX,paperswithcode.com, 💎 PROXY
 DOMAIN-SUFFIX,leetcode.com,💎 PROXY
 DOMAIN-SUFFIX,cppreference.com,💎 PROXY
 
-# R18
+# RRR
+DOMAIN-SUFFIX,c0e0.tv,💎 PROXY
 DOMAIN-SUFFIX,av01.tv,💎 PROXY
 DOMAIN-SUFFIX,r18.com,💎 PROXY
 DOMAIN-SUFFIX,javbus.com,💎 PROXY
@@ -91,6 +95,9 @@ DOMAIN-SUFFIX,petalsearch.com,💎 PROXY
 
 # Server
 DOMAIN-SUFFIX, linode.com, 💎 PROXY
+
+# Shopping
+DOMAIN-SUFFIX, ebay.com, 💎 PROXY
 
 # Videos
 DOMAIN-SUFFIX,bilibili.tv,💎 PROXY
