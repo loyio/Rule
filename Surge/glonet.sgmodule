@@ -1,5 +1,5 @@
 #!name=GlobalNetwork
-#!desc=Foreign network （Update on 2022-05-24）
+#!desc=Foreign network （Update on 2022-07-02）
 
 [Rule]
 # App
@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,aol.com,💎 PROXY
 DOMAIN-SUFFIX,paypal.com,💎 PROXY
 
 # Forum
+DOMAIN-SUFFIX,v2ex.com,💎 PROXY
 DOMAIN-SUFFIX,pincong.rocks,💎 PROXY
 
 # FastFrog
