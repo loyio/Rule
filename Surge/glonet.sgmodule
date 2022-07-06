@@ -1,5 +1,5 @@
 #!name=GlobalNetwork
-#!desc=Foreign network （Update on 2022-07-04）
+#!desc=🌍Foreign Network （Update on 2022-07-06）
 
 [Rule]
 # App
@@ -83,6 +83,9 @@ DOMAIN-SUFFIX,paperswithcode.com, 💎 PROXY
 # Programming
 DOMAIN-SUFFIX,leetcode.com,💎 PROXY
 DOMAIN-SUFFIX,cppreference.com,💎 PROXY
+
+# Reading
+DOMAIN-SUFFIX,goodreads.com,💎 PROXY
 
 # RRR
 DOMAIN-SUFFIX,c0e0.tv,💎 PROXY
