@@ -1,5 +1,5 @@
 #!name=GlobalNetwork
-#!desc=🌍Foreign Network （Update on 2022-07-06）
+#!desc=🌍Foreign Network （Update on 2022-07-10）
 
 [Rule]
 # App
@@ -49,6 +49,7 @@ DOMAIN-SUFFIX,faster.buzz,💎 PROXY
 DOMAIN-SUFFIX,riotgames.com,🎮 Gaming
 DOMAIN-SUFFIX, discord.gg, 💎 PROXY
 DOMAIN-SUFFIX, steamstatic.com, 💎 PROXY
+DOMAIN-SUFFIX, epicgames.com, 💎 PROXY
 DOMAIN-SUFFIX,op.gg,DIRECT
 
 # Google
