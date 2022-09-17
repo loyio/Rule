@@ -1,5 +1,5 @@
 #!name=GlobalNetwork
-#!desc=🌍Foreign Network （Update on 2022-07-10）
+#!desc=🌍Foreign Network （Update on 2022-09-17）
 
 [Rule]
 # App
@@ -97,6 +97,9 @@ DOMAIN-SUFFIX, linode.com, 💎 PROXY
 
 # Shopping
 DOMAIN-SUFFIX, ebay.com, 💎 PROXY
+
+# Study
+DOMAIN-SUFFIX, typingclub.com, 💎 PROXY
 
 # Videos
 DOMAIN-SUFFIX,bilibili.tv,💎 PROXY
