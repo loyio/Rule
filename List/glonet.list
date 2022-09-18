@@ -1,0 +1,106 @@
+# App
+DOMAIN-SUFFIX,appstorrent.ru
+DOMAIN-SUFFIX,cmacked.com
+
+# Business
+DOMAIN-SUFFIX,business-standard.com
+DOMAIN-SUFFIX,teamviewer.com
+
+# CDN
+DOMAIN-SUFFIX,jsdelivr.net
+
+# Computer Science
+DOMAIN-SUFFIX,geeksforgeeks.org
+DOMAIN-SUFFIX,stacked-crooked.com
+
+# Communication
+DOMAIN-SUFFIX,textnow.com
+
+# Course
+DOMAIN-SUFFIX,coursera.org
+
+# Cryptocurrency
+DOMAIN-SUFFIX,bnbstatic.com
+
+# Cracked
+DOMAIN-SUFFIX,thepiratebay.org
+
+# Design
+DOMAIN-SUFFIX,canva.com
+
+# Email
+DOMAIN-SUFFIX,aol.com
+
+# Finance
+DOMAIN-SUFFIX,paypal.com
+
+# Forum
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,pincong.rocks
+
+# FastFrog
+DOMAIN-SUFFIX,faster.buzz
+
+# Game
+DOMAIN-SUFFIX,riotgames.com
+DOMAIN-SUFFIX, discord.gg
+DOMAIN-SUFFIX, steamstatic.com
+DOMAIN-SUFFIX, epicgames.com
+DOMAIN-SUFFIX,op.gg
+
+# Google
+DOMAIN-SUFFIX, gstatic.com
+DOMAIN-SUFFIX, goo.gl
+
+# Hardware
+DOMAIN-SUFFIX, arduino.cc
+
+# News
+DOMAIN-SUFFIX, thenewslens.com
+
+# Notion
+DOMAIN-SUFFIX, notion.so
+DOMAIN-SUFFIX, notion.site
+
+# OpenSource
+DOMAIN-SUFFIX,lvv2.com
+
+# Password
+DOMAIN-SUFFIX,passwordsgenerator.net
+DOMAIN-SUFFIX,1password.com
+
+
+# Panels
+DOMAIN-SUFFIX,ip-api.com
+
+# Paper
+DOMAIN-SUFFIX,bibme.org
+DOMAIN-SUFFIX,arxiv.org
+DOMAIN-SUFFIX,researchgate.net
+DOMAIN-SUFFIX,paperswithcode.com
+
+# Programming
+DOMAIN-SUFFIX,leetcode.com
+DOMAIN-SUFFIX,cppreference.com
+
+# Reading
+DOMAIN-SUFFIX,goodreads.com
+
+# Search Engine
+DOMAIN-SUFFIX,yahoo.co.jp
+DOMAIN-SUFFIX,petalsearch.com
+
+# Server
+DOMAIN-SUFFIX, linode.com
+
+# Shopping
+DOMAIN-SUFFIX, ebay.com
+
+# Study
+DOMAIN-SUFFIX, typingclub.com
+
+# Videos
+DOMAIN-SUFFIX,bilibili.tv
+
+#Wallpaper
+DOMAIN-SUFFIX,24hourwallpaper.com
