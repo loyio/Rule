@@ -63,6 +63,10 @@ DOMAIN-SUFFIX, thenewslens.com
 DOMAIN-SUFFIX, notion.so
 DOMAIN-SUFFIX, notion.site
 
+# OpenAI
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+
 # OpenSource
 DOMAIN-SUFFIX,lvv2.com
 
